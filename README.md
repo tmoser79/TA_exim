@@ -44,6 +44,7 @@ To work with Exim main log data you have three options:
 
 
 *All_Email.Delivery* 
+```
 internal_message_id 
 message_id 
 protocol size
@@ -57,6 +58,7 @@ recipient_domain
 src_user
 src_user_domain
 vendor_product
+```
 
 *All_Email.Filtering*
 ```
@@ -78,6 +80,7 @@ vendor_product |
 ```
 
 *All_Email.Contenet*
+```
 internal_message_id
 message_id
 protocol
@@ -92,6 +95,7 @@ recipient_domain
 src_user
 src_user_domain
 vendor_product
+```
 
 ## Feedback
 I am open for any feedback at tomik.moser@gmail.com
