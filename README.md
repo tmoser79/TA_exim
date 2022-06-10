@@ -79,7 +79,7 @@ src_user_domain
 vendor_product |
 ```
 
-*All_Email.Contenet*
+*All_Email.Content*
 ```
 internal_message_id
 message_id
