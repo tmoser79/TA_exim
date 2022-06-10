@@ -26,12 +26,12 @@ Exim server just like other email servers or email proxy servers generate a sing
 
 ## Usage
 To work with Exim main log data you have three options:
-- Exim raw events
+- Exim raw events. 
 `sourcetype=exim:main`
-- Exim summary
+- Exim summary. 
 `sourcetype=exim:transactions`
-- Email Data Model
-`|tstats count from datamodel=Email.All_Email`
+- Email Data Model  
+- `|tstats count from datamodel=Email.All_Email`
 
 ## Development Notes
 - Search-time parsing is based primarily on highly hierarchical design of many nested transforms in transforms.conf. Curent design of transforms.conf allows for additional fine-grained parsing of previous blocks in the future. 
