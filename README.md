@@ -31,7 +31,7 @@ To work with Exim main log data you have three options:
 - Exim summary. 
 `sourcetype=exim:transactions`
 - Email Data Model  
-- `|tstats count from datamodel=Email.All_Email`
+`|tstats count from datamodel=Email.All_Email`
 
 ## Development Notes
 - Search-time parsing is based primarily on highly hierarchical design of many nested transforms in transforms.conf. Curent design of transforms.conf allows for additional fine-grained parsing of previous blocks in the future. 
