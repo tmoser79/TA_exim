@@ -9,7 +9,7 @@ None
 - Install on Search Head for search-time parsing and CIM compliance
 - Install on Indexer or Heavy Forwarder for optimized indexed-time parsing rules
 
-## Capabilties
+## Capabilities
 - index-time parsing
 - search-time parsing
 - scheduled search to periodically push aggregated email processing events into a summary index
