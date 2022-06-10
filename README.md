@@ -16,7 +16,6 @@ None
 - Accelerated data model Email periodically filled with new events from a summary index  
 
 * Configuration
-
 Exim server just like other email servers or email proxy servers generate a single event as an atomic activity for either incoming or outgoing email. In order to have a summarized condenced information about each email transaction (sender, receiver, message size, status, verdicts, attachments, etc.) we are using a summary index and a scheduled search that reguarly fills this summary index. On Splunk Search Head you need to enable a scheduled search "Exim - Mail Processing - Summary Gen" as follows:
 
 1. Make TA_exim app visible 
