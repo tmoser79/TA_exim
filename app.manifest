@@ -1,10 +1,10 @@
 {
   "schemaVersion": "1.0.0",
   "info": {
-    "title": "TA-exim",
+    "title": "TA_exim",
     "id": {
       "group": null,
-      "name": "TA-exim",
+      "name": "TA_exim",
       "version": "1.0.0"
     },
     "author": [
@@ -15,7 +15,7 @@
       }
     ],
     "releaseDate": null,
-    "description": "Splunk Add-on for Exim MTA",
+    "description": "Technology Add-on for Exim MTA",
     "classification": {
       "intendedAudience": null,
       "categories": [],
