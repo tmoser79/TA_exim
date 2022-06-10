@@ -26,9 +26,9 @@ Exim server just like other email servers or email proxy servers generate a sing
 
 ## Usage
 To work with Exim main log data you have three options:
-- Exim raw events 
+- Exim raw events
 `sourcetype=exim:main`
-- Exim summary 
+- Exim summary
 `sourcetype=exim:transactions`
 - Email Data Model  
 `|tstats count from datamodel=Email.All_Email`
