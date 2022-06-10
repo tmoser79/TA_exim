@@ -44,7 +44,6 @@ To work with Exim main log data you have three options:
 
 
 | All_Email.Delivery | All_Email.Filtering | All_Email.Contenet |
-| ------ | ------ |
 | internal_message_id
 message_id
 protocol
