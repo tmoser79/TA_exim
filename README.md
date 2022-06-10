@@ -36,6 +36,7 @@ To work with Exim main log data you have three options:
 ## Development Notes
 - Search-time parsing is based primarily on highly hierarchical design of many nested transforms in transforms.conf. Curent design of transforms.conf allows for additional fine-grained parsing of previous blocks in the future. 
 - Soft fine tuning done in props.conf
+- Exim main log parsing done based on official documentation at https://www.exim.org/exim-html-current/doc/html/spec_html/ch-log_files.html
 
 ## CIM Data Model Compliance
 - Splunk CIM Data Models supported = Email
