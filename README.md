@@ -19,7 +19,7 @@ None
 Exim server just like other email servers or email proxy servers generate a single event as an atomic activity for either incoming or outgoing email. In order to have a summarized condenced information about each email transaction (sender, receiver, message size, status, verdicts, attachments, etc.) we are using a summary index and a scheduled search that reguarly fills this summary index. On Splunk Search Head you need to enable a scheduled search "Exim - Mail Processing - Summary Gen" as follows:
 
 1. Make TA_exim app visible 
-2. Open a folder http://<your splunk host>:8000/en-US/app/TA_exim/reports
+2. Open a folder http://&lt;your splunk host&gt;:8000/en-US/app/TA_exim/reports
 3. Enable end schedule the search "Exim - Mail Processing - Summary Gen"; 5 min by default
 4. (optional) Update macros `exim_index` and `exim_summary_index` used by the search above. By default "exim_index=exim", "exim_summary_index=exim_summary"
 5. Make TA_exim app invisible again
