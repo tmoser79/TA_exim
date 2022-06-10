@@ -1,9 +1,9 @@
 flag,description,action
 <=,message arrival,
-(=,message fakereject,
+(=,message fakereject,delivered
 =>,normal message delivery,delivered
 ->,additional address in same delivery,delivered
 >>,cutthrough message delivery,delivered
 *>,delivery suppressed by -N,blocked
-**,delivery failed; address bounced,failed
-==,delivery deferred; temporary problem,deferred
+**,delivery failed; address bounced,blocked
+==,delivery deferred; temporary problem,quarantined
