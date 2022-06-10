@@ -42,8 +42,10 @@ To work with Exim main log data you have three options:
 - There are many fields that have been extracted from raw data (partical CIM compliance)
 - There is plenty of room for an improvement to parse more fields
 
-- Dataset All_Email.Delivery:
-internal_message_id
+
+| All_Email.Delivery | All_Email.Filtering | All_Email.Contenet |
+| ------ | ------ |
+| internal_message_id
 message_id
 protocol
 size
@@ -56,9 +58,8 @@ recipient
 recipient_domain
 src_user
 src_user_domain
-vendor_product
+vendor_product | 
 
-- Dataset All_Email.Filtering:
 filter_action
 internal_message_id
 message_id
@@ -73,9 +74,8 @@ recipient
 recipient_domain
 src_user
 src_user_domain
-vendor_product
+vendor_product |
 
-- Dataset All_Email.Contenet
 internal_message_id
 message_id
 protocol
@@ -89,7 +89,7 @@ recipient
 recipient_domain
 src_user
 src_user_domain
-vendor_product
+vendor_product |
 
 ## Feedback
 I am open for any feedback at tomik.moser@gmail.com
