@@ -59,6 +59,7 @@ src_user_domain
 vendor_product
 
 *All_Email.Filtering*
+```
 filter_action
 internal_message_id
 message_id
@@ -74,6 +75,7 @@ recipient_domain
 src_user
 src_user_domain
 vendor_product |
+```
 
 *All_Email.Contenet*
 internal_message_id
