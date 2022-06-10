@@ -43,11 +43,10 @@ To work with Exim main log data you have three options:
 - There is plenty of room for an improvement to parse more fields
 
 
-| All_Email.Delivery | All_Email.Filtering | All_Email.Contenet |
-| internal_message_id
-message_id
-protocol
-size
+*All_Email.Delivery* 
+internal_message_id 
+message_id 
+protocol size
 status_code
 subject
 action
@@ -57,8 +56,9 @@ recipient
 recipient_domain
 src_user
 src_user_domain
-vendor_product | 
+vendor_product
 
+*All_Email.Filtering*
 filter_action
 internal_message_id
 message_id
@@ -75,6 +75,7 @@ src_user
 src_user_domain
 vendor_product |
 
+*All_Email.Contenet*
 internal_message_id
 message_id
 protocol
@@ -88,7 +89,7 @@ recipient
 recipient_domain
 src_user
 src_user_domain
-vendor_product |
+vendor_product
 
 ## Feedback
 I am open for any feedback at tomik.moser@gmail.com
