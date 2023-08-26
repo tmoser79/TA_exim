@@ -1,35 +1,20 @@
 [props/exim%3Amain]
 owner = admin
-version = 8.1.1
-modtime = 1627301733.145163000
-
-[props/stash]
-owner = admin
-version = 8.1.1
-modtime = 1627333665.410966000
-
-[eventtypes/exim_mail_processing]
-owner = admin
-version = 8.1.1
-modtime = 1627333816.273560000
-
-[tags/eventtype%3Dexim_mail_processing]
-owner = admin
-version = 8.1.1
-modtime = 1627418764.103345000
+version = 8.2.6
+modtime = 1654846385.750330000
 
 [app/ui]
-version = 8.1.1
-modtime = 1627474694.379977000
+version = 8.2.6
+modtime = 1654865448.928061000
 
 [app/launcher]
-version = 8.1.1
-modtime = 1627474694.386788000
+version = 8.2.6
+modtime = 1654865448.931087000
 
 [app/package/check_for_updates]
-version = 8.1.1
-modtime = 1627474694.388202000
+version = 8.2.6
+modtime = 1654865448.932099000
 
-[savedsearches/Exim%20-%20Create%20Mail%20Processing%20Summary]
-version = 8.1.1
-modtime = 1627475536.397748000
+[savedsearches/Exim%20-%20Mail%20Processing%20-%20Summary%20Gen]
+version = 8.2.6
+modtime = 1654850918.106280000

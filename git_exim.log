@@ -1,0 +1,53 @@
+commit 3b7828cd00f288f69fd38bd54f5b9d3b04f8a733
+Author: Tomas Moser <tmoser@drake.dev>
+Date:   Thu Jun 9 11:21:02 2022 +0200
+
+    savedsearches.conf moved from defealt to local
+
+commit 9aad04aadeee1e67c9fcf27b8c053ec941954f60
+Author: Tomas Moser <tmoser@drake.dev>
+Date:   Thu Jun 9 11:19:18 2022 +0200
+
+    added summary index generating search from SA-exim
+
+commit 8f4c714c695b8480356995cba93f866fbfdcd5c1
+Author: Tomas Moser <tmoser@drake.dev>
+Date:   Tue Aug 10 16:57:12 2021 +0200
+
+    backward compatibility for sourcetype exim_main
+
+commit 496efdae4fc30fa641b9fd94c3d2dfaf6a8c5bfa
+Author: Tomas Moser <tmoser@drake.dev>
+Date:   Tue Aug 10 16:56:43 2021 +0200
+
+    moved from SA-exim
+
+commit 0dd64e8c823403f72b51eaf665fc496705f48586
+Author: Tomas Moser <tmoser@drake.dev>
+Date:   Tue Aug 10 16:56:02 2021 +0200
+
+    added gitlab files filtering
+
+commit ed1e010ed45cf83bda00a2c56c8be98b78bd139d
+Author: Tomas Moser <tmoser@drake.dev>
+Date:   Wed Jul 28 15:01:33 2021 +0200
+
+    minor changes
+
+commit ce91cb431d2fe74e637d591de4b8054039d30d5b
+Author: Tomas Moser <tmoser@drake.dev>
+Date:   Wed Jul 28 15:01:13 2021 +0200
+
+    eventtypes.conf and tags.conf moved to a new exim_app application
+
+commit 64a3ac79d68929a2a016f6a5077281ed806ac456
+Author: Tomas Moser <tmoser@drake.dev>
+Date:   Wed Jul 28 14:05:08 2021 +0200
+
+    added exim main log sample
+
+commit ad38026857d6cf3dc529b7b899a99f7e27b0f572
+Author: Tomas Moser <tmoser@drake.dev>
+Date:   Wed Jul 28 13:31:05 2021 +0200
+
+    Initial commit
