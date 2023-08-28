@@ -1,0 +1,7 @@
+.git
+.gitignore
+local
+*.pyo
+*.pyc
+Makefile
+splunkbase_exclusions.txt
