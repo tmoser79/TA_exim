@@ -103,3 +103,4 @@ I am open for any feedback at tomik.moser@gmail.com
 
 ## Release Notes
 - 1.0.0, 2022-06-10, initial release
+- 1.0.1, 2023--8-28, regenerated via Splunk Add-on Builder 4.1.3 to comply with the most recent Splunk Cloud App Inspect vetting checks
