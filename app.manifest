@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0.0",
   "info": {
-    "title": "TA_exim",
+    "title": "TA-exim",
     "id": {
       "group": null,
       "name": "TA_exim",
