@@ -7,7 +7,7 @@
 2021-07-19 14:33:12 1m5SSL-0003gt-N2 Completed
 2021-07-19 14:33:12 1m5SSL-0003gt-N2 => joseph@mydomain.cz R=dnslookup T=remote_smtp H=mx1.mydomain.cz [77.75.76.42] X=TLS1.3:ECDHE_RSA_AES_256_GCM_SHA384:256 CV=yes C="250 2.0.0 Mail 591600088 queued for delivery in session 283600000050."
 2021-07-19 14:33:09 1m5SSL-0003gt-N2 <= payments@mydomain2.cz H=(cs4279.xyz-location.cz) [12.238.123.203] P=esmtp K S=2590 id=2128200267.139366.1626697989554@svm033nn.factory.factorygroup.cz T="Chybn\303\275 variabiln\303\255 symbol platby"
-2021-07-19 14:33:03 1m5SSE-0003gb-DR Completed
+2021-07-19 14:33:03 1m5SSE-0003gb-DR Completed:queued
 2021-07-19 14:33:03 1m5SSE-0003gb-DR => jerry@home.mail.onmicrosoft.com R=dnslookup T=remote_smtp H=home-mail-onmicrosoft-com.mail.protection.outlook.com [13.21.18.74] X=TLS1.2:ECDHE_RSA_AES_256_GCM_SHA384:256 CV=yes K C="250 2.6.0 <454a07c9-aaaf-40f1-abe2-396ac8b3912b@svm13.factorygroup.cz> [InternalId=29064043699194, Hostname=AS8PR01MB7176.usprd01.prod.exchangelabs.com] 11512 bytes in 0.057, 194.228 KB/sec Queued mail for delivery"
 2021-07-19 14:33:02 1m5SSE-0003gb-DR <= innogy-web@mydomain2.cz H=(cs4278.xyz-location.cz) [12.238.123.4] P=esmtp K S=1606 id=454a07c9-aaaf-40f1-abe2-396ac8b3912b@svm13.factorygroup.cz T="V\303\275sledek exportu reportu"
 2021-07-19 14:32:54 1m5SS5-0003dA-6B Completed
